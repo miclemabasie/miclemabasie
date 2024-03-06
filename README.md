@@ -41,7 +41,7 @@ src="https://img.shields.io/github/followers/miclemabasie?logo=github&style=for-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miclemabasie&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Support Me
 
